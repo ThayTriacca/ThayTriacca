@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning front end development - CSS - HTML - JS - VUE
 - 🤔 I’m looking for help with HTML - CSS - JS - VUE
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/thayana-yasmin-triacca">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/thayana-yasmin-triacca-bb36b1125/">LinkedIn</a>
 
 <!--
 **ThayTriacca/ThayTriacca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
